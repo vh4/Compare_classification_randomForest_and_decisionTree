@@ -11,3 +11,8 @@ this is to compare decision tree and random forest with accuracy score . in data
 6. running this program ! 
 
 happy hacking !!!
+
+
+Example tree decision using gini impurity model:
+
+![alt text](https://github.com/vh4/Compare_classification_randomForest_and_decisionTree/blob/master/img.png)
