@@ -12,6 +12,9 @@ this is to compare decision tree and random forest with accuracy score . in data
 
 happy hacking !!!
 
+score accuracy Decision Tree = 0.97777777
+score accuracy Random Forest = 0.97777777
+
 
 Example tree decision using gini impurity model:
 
