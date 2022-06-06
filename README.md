@@ -1,4 +1,4 @@
-# Description
+# Description Stroke Classification
 Laboratorium Progres I-SMILE - mendeteksi penyakit stroke menggunakan algoritma Random Forest. In datasets, i'm using Stroke dataset to define who that get stroke based on the datasets.
 
 happy hacking !!!
